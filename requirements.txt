@@ -1,7 +1,0 @@
-Flask
-pandas
-yfinance
-scikit-learn
-numpy
-requests
-gunicorn
